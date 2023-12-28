@@ -1,12 +1,21 @@
-const ProductItem = () => {
+import { addCommas } from "../../helpers/addComas";
+
+type itemType = {
+  id: number;
+  name: string;
+  price: number;
+  img: string;
+};
+
+const ProductItem = ({ item }: { item: itemType }) => {
+  // w-[120px] h-[120px] md:w-[100px] md:h-[100px]
   return (
-    <div className="mb-2 w-full md:w-1/3  rounded shadow p-3 flex flex-col items-center justify-center">
-      <img
-        src="https://neal.fun/spend/images/big-mac.jpg"
-        className="rounded-full w-[120px] h-[120px] md:w-[100px] md:h-[100px] "
-      />
-      <h2 className="text-xl font-bold lg:text-xl">Big Mac</h2>
-      <div className="text-md text-green-500 font-bold lg:text-xl ">₺40</div>
+    <div className="mb-2 w-full lg:w-1/3 md:w-1/2 rounded shadow p-3 flex flex-col items-center justify-center">
+      <img src={`/img/items/${item.img}`} className="h-[130px] md:h-[110px]" />
+      <h2 className="text-xl font-bold lg:text-xl">{item.name}</h2>
+      <div className="text-md text-green-500 font-bold lg:text-xl ">
+        ₺{addCommas(item.price)}
+      </div>
       <div className="flex w-full justify-between mt-3 gap-2 ">
         <button className="w-1/3 p-1 lg:text-xl lg:w-1/4 bg-gradient-to-br rounded from-red-900 via-red-500 to-red-400 text-white ">
           Sell

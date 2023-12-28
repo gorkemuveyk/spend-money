@@ -11,7 +11,7 @@ function App() {
         <Header />
         <Profile />
       </div>
-      <div className="w-full md:w-3/5 mx-auto">
+      <div className="w-full lg:w-3/5 md:w-4/5 mx-auto">
         <ProductList />
       </div>
       <Bill />

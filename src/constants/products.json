@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Make a Movie",
+    "price": 5000000,
+    "img": "make-a-movie.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Skyscraper",
+    "price": 35000000,
+    "img": "skyscraper.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gold Bar",
+    "price": 2000000,
+    "img": "gold-bar.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bike",
+    "price": 10000,
+    "img": "bike.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console",
+    "price": 25000,
+    "img": "gaming-console.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ferrari",
+    "price": 12000000,
+    "img": "ferrari.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Single Family Home",
+    "price": 55000000,
+    "img": "single-family-home.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Yacht",
+    "price": 18000000,
+    "img": "yacht.jpg"
+  },
+  {
+    "id": 9,
+    "name": "NBA Team",
+    "price": 30000000000,
+    "img": "nba-team.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Movie Ticket",
+    "price": 250,
+    "img": "movie-ticket.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Superbowl Ad",
+    "price": 20000000,
+    "img": "superbowl-ad.jpg"
+  },
+  {
+    "id": 12,
+    "name": "M1 - Abrams",
+    "price": 5000000,
+    "img": "m1-abrams.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Tesla",
+    "price": 5000000,
+    "img": "tesla.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Cruise Ship",
+    "price": 3000000000,
+    "img": "cruise-ship.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Air Jordans",
+    "price": 8000,
+    "img": "air-jordans.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Mona Lisa",
+    "price": 7800000000,
+    "img": "mona-lisa.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Island",
+    "price": 4710912000,
+    "img": "island.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Diamond Ring",
+    "price": 55000,
+    "img": "diamond-ring.jpg"
+  },
+  {
+    "id": 19,
+    "name": "MC Donals Franchise",
+    "price": 20000000,
+    "img": "mcdonalds-franchise.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Apache Helicopter",
+    "price": 80000000,
+    "img": "apache-helicopter.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Big Mac",
+    "price": 230,
+    "img": "big-mac.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Netflix [Month]",
+    "price": 180,
+    "img": "netflix.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Book",
+    "price": 170,
+    "img": "book.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Lobster Dinner",
+    "price": 750,
+    "img": "lobster-dinner.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Formula 1 Car",
+    "price": 950000000,
+    "img": "formula-1-car.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Rolex",
+    "price": 1500000,
+    "img": "rolex.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Boeing 747",
+    "price": 30000000,
+    "img": "boeing-747.jpg"
+  }
+]

@@ -1,6 +1,6 @@
 const Bill = () => {
   return (
-    <div className=" md:w-3/4 md:mx-auto w-full lg:w-[600px]  p-4 shadow rounded">
+    <div className=" md:w-3/4 md:mx-auto w-full lg:w-[600px] mb-5 p-4 shadow rounded">
       <h2 className="text-center my-2 text-xl font-bold lg:text-xl">
         Your Receipt
       </h2>
