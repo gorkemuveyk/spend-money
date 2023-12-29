@@ -1,30 +1,33 @@
-# React + TypeScript + Vite
+## Spend Money
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Imagine, you live in Turkey and you win the New Year's jackpot. Approximately 400 million Turkish liras. How would you spend this money?
 
-Currently, two official plugins are available:
+## [Live Demo](https://spend-money-nu.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
 
-## Expanding the ESLint configuration
+<div align="center">
+  <img src="public/img/mobile.png" alt="Resim 1" width="30%">
+  <img src="public/img/tablet.png" alt="Resim 2" width="50%">
+  <img src="public/img/laptop.png" alt="Resim 3" width="80%">
+</div>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Installation
 
-- Configure the top-level `parserOptions` property like this:
+#### Clone
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```
+https://github.com/gorkemuveyk/spend-money.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+#### Package Installation
+
+```
+npm i
+```
+
+#### Start
+
+```
+npm run dev
+```
