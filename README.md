@@ -1,4 +1,4 @@
-## Spend Money
+# Spend Money
 
 Imagine, you live in Turkey and you win the New Year's jackpot. Approximately 400 million Turkish liras. How would you spend this money?
 
