@@ -17,7 +17,7 @@ Imagine, you live in Turkey and you win the New Year's jackpot. Approximately 40
 #### Clone
 
 ```
-https://github.com/gorkemuveyk/spend-money.git
+git clone https://github.com/gorkemuveyk/spend-money.git
 ```
 
 #### Package Installation
